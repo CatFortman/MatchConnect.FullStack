@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MatchConnect.API", "MatchConnect.API", "{CFF3FA8E-06BD-76CF-9009-18C9BFCE2B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchConnect.API", "MatchConnect.API\MatchConnect.API.csproj", "{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{856C1FAB-780B-D614-14EF-9CC1EA2B8F5A} = {CFF3FA8E-06BD-76CF-9009-18C9BFCE2B13}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F44D5C5-1AEA-4CA0-824E-6187BC903F66}
+	EndGlobalSection
+EndGlobal
