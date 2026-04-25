@@ -73,7 +73,7 @@ MatchConnect.FullStack/
 │   ├── Helpers/
 │   └── MatchConnect.API.csproj
 │
-├── MatchConnect.Client/
+├── MatchConnect.SPA/
 │   ├── src/app/
 │   │   ├── home/
 │   │   ├── members/
@@ -85,6 +85,9 @@ MatchConnect.FullStack/
 │   │   └── pipes/
 │   │
 │   └── package.json
+|
+└── MatchConnect.FullStack.sln
+
 ```
 
 ## Authentication Flow
